@@ -4,3 +4,6 @@ tankSpeed=5
 bulletSpeed=10
 gameWidth=1080
 gameHight=720
+#fireStrategy
+goodFs=com.lilingdang.tank.FourDirFireStrategy
+badFs=com.lilingdang.tank.DefaultFireStrategy
